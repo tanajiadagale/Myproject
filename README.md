@@ -68,7 +68,7 @@ Webapps homepage looks like in below after deploying it in heroku.
 
 
 <p align="center">
-<img src="/charts/apps.gif"   title = "WebApps Home Page">
+<img src="/charts/Demo.gif"   title = "WebApps Home Page">
 </p>
 
 
