@@ -63,7 +63,7 @@ Among tested 4 classifiers , RFC gave the best Recall score.
 
 ## 3) WebApps Deployment:
 
-Here is our webapps access link <a href="https://diabetic-detection-app-rashed.herokuapp.com/">https://diabetic-detection-app-rashed.herokuapp.com</a>   
+Here is our webapps access link <a href="https://diabeticditection-tanaji.herokuapp.com">https://diabeticditection-tanaji.herokuapp.com</a>   
 Webapps homepage looks like in below after deploying it in heroku.
 
 
