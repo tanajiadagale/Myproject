@@ -66,7 +66,6 @@ Among tested 4 classifiers , RFC gave the best Recall score.
 Here is our webapps access link <a href="https://diabetic-detection-app-rashed.herokuapp.com/">https://diabetic-detection-app-rashed.herokuapp.com</a>   
 Webapps homepage looks like in below after deploying it in heroku.
 
-<!-- ![Alt Text](https://github.com/rashed2940/Diabetic-detection/blob/main/charts/apps.gif) -->
 
 <p align="center">
 <img src="/charts/apps.gif"   title = "WebApps Home Page">
