@@ -1,7 +1,7 @@
 # Diabetic-Detection with ML
 
 ## Motivation:
-To grow my machine learning skills, this is another continuation of my ML project - diabetes prediction. 
+This project is created for predecting diabetics 
 In this project, we did the following:
 1) Exploratory data analysis (EDA)
 2) Building ML project
